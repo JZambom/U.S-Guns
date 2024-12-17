@@ -14,6 +14,10 @@ The results of this project aim to inform **policymakers, law enforcement, and c
 The dataset was obtained from the [Gun Violence Archive] (https://www.kaggle.com/datasets/jameslko/gun-violence-data), which documents gun-related incidents across the U.S.
 
 ---
+## **Tableau link**
+The final report could be found in the following link in Tableau public (https://public.tableau.com/app/profile/jose.zambom/viz/Book1_17343296753480/Story?publish=yes)
+
+---
 
 ## **Key Objectives**  
 1. **Temporal Analysis**: Explore how gun violence incidents have changed over time.  
